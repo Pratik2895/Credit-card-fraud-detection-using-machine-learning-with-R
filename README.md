@@ -1,6 +1,6 @@
 # Project : CREDIT CARD FRAUD DETECTION 
 
-![](https://github.com/shalakasaraogi/credit-card-fraud-detection/blob/main/images/xenonstack-credit-card-fraud-detection.png)
+
 
 ## What is Fraud?
 
@@ -59,15 +59,7 @@ In this technique we over-sample the minority class (i.e fraud) by creating synt
 
 Read more about SMOTE [link-1](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/), [link-2](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis)
 
-## Implementation
 
-Dataset:  [creditcard.csv](https://github.com/shalakasaraogi/credit-card-fraud-detection/blob/main/csv%20files/creditcard.csv)
-
-Code:  [credit-card-fraud-detection.R](https://github.com/shalakasaraogi/credit-card-fraud-detection/blob/main/Credit-card-fraud-detection.R)
-
-Lab Environment: RStudio
-
----
 
 
 
